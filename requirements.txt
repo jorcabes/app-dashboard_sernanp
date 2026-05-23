@@ -1,4 +1,3 @@
 plotly
 geopandas
-json
 branca.colormap
